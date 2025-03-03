@@ -397,11 +397,56 @@ body{
     gap: 135px;
     padding: 25px 30px;
 }
+.file_section{
+    background-image: url("./img/NFT Highlight.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
 .button_section{
-    background: rgb(15,255,244);
-    background: linear-gradient(0deg, rgba(15,255,244,1) 0%, rgba(255,237,73,1) 47%, rgba(255,0,0,1) 100%);
     margin-top: 80px;
     padding: 360px 115px 60px 115px;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+.hours{
+    backdrop-filter: blur(10px);
+    background-color: #3B3B3B80;
+    padding: 30px 30px;
+    border-radius: 20px;
+    max-width: 290px;
+    width: 100%;
+    max-height: 135px;
+}
+.inner_blur{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-top: 10px;
+}
+.blur_span{
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 45px;
+    color: white;
+}
+.text_file{
+    margin-top: 5px;
+    display: flex;
+    gap: 50px;
+}
+.file_text{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 13px;
+    color: white;
+}
+.Auction__text{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 13px;
+    color: #FFFFFF;
 }
 .magic_text{
     max-width: 151px;

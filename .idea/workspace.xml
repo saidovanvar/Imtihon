@@ -5,25 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="263214c6-a967-46b5-aac4-58a12b4aee1d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/img/Artist Avatar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Avatar Placeholder (2).svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Avatar Placeholder.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Frame 228.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Image Placeholder.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Primary Photo Placeholder (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Primary Photo Placeholder (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Primary Photo Placeholder.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Primary Photo Placeholder.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/RocketLaunch.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Secondary Photo Placeholder (1).svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Secondary Photo Placeholder.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/User.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/name.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/nav menu.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +30,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
@@ -81,6 +65,8 @@
       <workItem from="1740899171753" duration="3876000" />
       <workItem from="1740907564449" duration="4627000" />
       <workItem from="1740919840951" duration="14736000" />
+      <workItem from="1740969667798" duration="415000" />
+      <workItem from="1740975443056" duration="2071000" />
     </task>
     <servers />
   </component>
