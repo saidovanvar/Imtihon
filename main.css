@@ -7,7 +7,6 @@
     text-decoration: none;
     font-family: "Work Sans", serif;
     border: none;
-    cursor: none;
 }
 .main_container{
     max-width: 1050px;
@@ -525,6 +524,65 @@ body{
     grid-template-columns: 1fr 1fr 1fr;
     gap: 30px;
 }
+.main__box__section__main{
+    max-width: 1050px;
+    width: 100%;
+    background: #3B3B3B;
+    border-radius: 20px;
+    padding: 60px 60px;
+    display: flex;
+    gap: 80px;
+    margin-top: 120px;
+}
+.Photo_img{
+    max-width: 425px;
+    width: 100%;
+}
+.join_text{
+    color: #ffffff;
+    margin-top: 19px;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 120%;
+    text-transform: capitalize;
+}
+.Get_text{
+    color: #ffffff;
+    margin-top: 10px;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 160%;
+    text-transform: capitalize;
+}
+.your_btn{
+    max-width: 425px;
+    gap: 12px;
+    padding: 19px 15px;
+    border-radius: 20px 0 0 20px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #2B2B2B;
+    display: flex;
+    align-items: center;
+}
+.img_your_btn{
+    max-width: 211px;
+    width: 100%;
+    border-radius: 20px;
+    padding: 16px 50px;
+    align-items: center;
+    background: #A259FF;
+    display: flex;
+    gap: 12px;
+}
+.box__btn{
+    display: flex;
+    background: #ffffff;
+    border-radius: 24px;
+    gap: 15px;
+    margin-top: 40px;
+}
 @media screen and (max-width: 1100px){
     .main_box{
         margin: 40px auto;
@@ -816,6 +874,55 @@ body{
     .win_work__text{
         text-align: center;
         margin-top: 20px;
+    }
+    .box__btn{
+        display: flex;
+        background: #ffffff;
+        border-radius: 24px;
+        gap: 15px;
+        margin-top: 40px;
+    }
+    .main__box__section__main{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 30px;
+        padding: 40px 30px 40px 30px;
+        margin: 80px auto;
+    }
+    .Photo_img{
+        padding: 0 20px 0 0;
+        justify-content: center;
+    }
+    .join_text{
+        font-weight: 600;
+        font-size: 28px;
+        line-height: 140%;
+        text-transform: capitalize;
+    }
+    .Get_text{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 140%;
+        margin-top: 10px;
+    }
+    .box__btn{
+        display: block;
+        background: #3B3B3B;
+    }
+    .your_btn{
+        max-width: 315px;
+        width: 100%;
+        padding: 12px 20px;
+        border-radius: 20px;
+    }
+    .img_your_btn{
+        max-width: 315px;
+        width: 100%;
+        padding: 12px 20px;
+        border-radius: 20px;
+        align-items: center;
+        justify-content: center;
+        margin-top: 16px;
     }
 }
 @media screen and (max-width: 375px){
